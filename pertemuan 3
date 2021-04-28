@@ -1,0 +1,25 @@
+# 201855202008-novita
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Tugas-3</title>
+</head>
+<body>
+	<h2>TEKNIK INFORMATIKA&trade;<h2>
+	<pre>Nama Lengkap : Novita Sari</pre>
+	<pre>Nim		:201855202008</pre>
+	<p>UNIVERSITAS MUHAMMADIYAH SORONG</p>
+	<hr width=100% size=7 color=red align=center>
+	<h2>pengertian HTML</h2>
+	<p align="justify"> <b>Hypertext Markup languange</b> (HTML) adalah <font color="blue"> <u> bahasa marka </u> </font> standar
+	standar untuk dokumen yang dirancang untuk  di tampilkan di <font color "blue"> <u> peramban internet.</u> </font> ini dapat dibantu oleh teknologi seprti <font color="blue"> <u> cascading style sheets </u> </font> (CSS) dan <font  ccolor="blue"> <u>bahasa scripting 
+	</u> </font>seperti <font color="blue"> <u>JavaScript </u> </font> dan <font color="blue"> <u>VBScript.</u> </font>
+
+	<p align="justify"><font color="blue"> peremban internet</u> </font> menerima dokumen HTML dari <font color="blue">server web</u></font>atau dari  penyimpanan lokal dan <font color="blue">membuat</u> </font> dokumen  menjadi <font color="blue">halaman web</u> </font>
+	multimedia. HTMl menggambarkan sturuktur halaman web secara <font color="blue">semantik</u> </font> dan isyarat awal yang disertakan untuk penampilan dokumen.
+
+	<p algn="justify">elemen HTML yang digambarkan oleh <i>tag</i>,dituliskan menggunakan tanda <font color="blue">kurung sudut.</u> </font>tag seperti < img /> dan < input/> langsung diperkenankan konten kedalamhalaman.tag lain seperti <p> mengililingi dan memberikan informasi tentang teks dokumen dan mungkin menyertakan tag lain sebagai sub-elemen. peramba tidak menampilkan tag HTML, tetapi menggunakannya untuk menafsirkan konten halaman.<sup>[1]</sup></p>
+</body>
+</html>
+
+
